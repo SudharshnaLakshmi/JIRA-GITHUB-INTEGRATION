@@ -1,2 +1,2 @@
 # JIRA-GITHUB-INTEGRATION
-jira integration demo
+jira integration 
